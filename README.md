@@ -1,8 +1,9 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
 ###
-
-![Image](https://github.com/user-attachments/assets/a82e2efa-0c0a-4a1a-8a6b-2b650f14659a)
+<div align="center">
+  ![Image](https://github.com/user-attachments/assets/a82e2efa-0c0a-4a1a-8a6b-2b650f14659a)
+</div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
