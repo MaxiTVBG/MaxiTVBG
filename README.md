@@ -2,9 +2,7 @@
 
 ###
 
-<div align="center">
-  ![Lich King](https://github.com/user-attachments/assets/a9104a58-7970-42e6-a2c7-dd3d69cded7f)
-</div>
+![Image](https://github.com/user-attachments/assets/a82e2efa-0c0a-4a1a-8a6b-2b650f14659a)
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
